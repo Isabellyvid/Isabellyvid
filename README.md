@@ -2,7 +2,7 @@
 
 Meu nome é _isabelly_!
 
--Estou estudando no alura;
+-Estou estudando no [alura](https://www.alura.com.br);
 
 -estou me desenvolvendo na linguagem JavaScript;
 
@@ -12,6 +12,7 @@ Meu nome é _isabelly_!
 
 v.isabelly07@icloud.com
 
+![](https://media1.tenor.com/m/9LUr-_obbVAAAAAC/hello-kitty.gif)
 
 
 
